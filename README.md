@@ -38,7 +38,3 @@ This graduation project presents an intelligent cybersecurity system designed to
 
 ## Results
 The implemented models achieved high accuracy in detecting and classifying cyberattacks using multiple evaluation metrics such as Accuracy, Precision, Recall, and F1-Score.
-
-## Author
-Manar Albishri  
-Computer Science Graduate – Umm Al-Qura University
